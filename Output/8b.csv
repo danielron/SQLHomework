@@ -1,0 +1,3 @@
+Field,Type,Null,Key,Default,Extra
+FilmGenre,varchar(25),NO,,NULL,
+SUM(payment.amount),"decimal(27,2)",YES,,NULL,
